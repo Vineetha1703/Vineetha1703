@@ -2,7 +2,7 @@
 - 👀 I’m interested in Asp.net applications
 - 🌱 I’m currently learning .net
 - 💞️ I’m looking to collaborate on .net technologies
-- 📫 How to reach me aredla1703@gmail.com
+- 📫 How to reach me vineetha3738@gmail.com
 - 😄 Pronouns: miss
 - ⚡ Fun fact: I have good sense of humour
 
